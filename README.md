@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Kris
-- 👀 I’m interested in developpement web/logiciel
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me krisplesel@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Je suis **Kris**
+- 👀 Je m'intéresse au développement web et logiciel
+- 🌱 J'apprends actuellement le **PHP**
+- 💞️ Je suis ouvert à des collaborations sur des projets passionnants
+- 📫 Vous pouvez me contacter à : krisplesel@gmail.com
+- 😄 Pronoms : il/lui
+- ⚡ Fait amusant : J'aime la musique et je créer des type beats de temps en temps !
 
 <!---
 plKris/plKris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
