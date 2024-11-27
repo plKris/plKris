@@ -1,6 +1,6 @@
 # Bonjour, je suis Kris PLESEL 👋
 
-- 📫 Contactez-moi sur mon [Portfolio](https://pleselkris.com/)**
+- 📫 Contactez-moi sur mon [Portfolio](https://pleselkris.com/)
 
 ## Me retrouver
 
