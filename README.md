@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/-krisplesel@gmail.com-000?style=flat&logo=Gmail&logoColor=EA4335)](mailto:krisplesel@gmail.com)
 
 Je construis des applications web robustes et soignées — backend, frontend, base de données.  
-**Disponible pour une alternance à partir de septembre 2026.**
+**Disponible pour une alternance à partir de Septembre 2026.**
 
 </div>
 
