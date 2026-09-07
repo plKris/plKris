@@ -113,13 +113,13 @@ Développeur web orienté solution, j’accompagne la conception et la mise en �
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plKris&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=4ADE80&text_color=FFF&title_color=4ADE80)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plKris&layout=compact&bg_color=0d1117&hide_border=true&text_color=FFF&title_color=4ADE80&langs_count=8)
+[![Followers](https://img.shields.io/github/followers/plKris?style=for-the-badge&logo=github&label=Followers&color=0d1117&logoColor=ffffff)](https://github.com/plKris)
+[![Stars](https://img.shields.io/github/stars/plKris?style=for-the-badge&logo=github&label=Stars&color=0d1117&logoColor=ffffff)](https://github.com/plKris)
+[![Profile views](https://komarev.com/ghpvc/?username=plKris&style=for-the-badge&color=4ADE80)](https://github.com/plKris)
 
 </div>
 
