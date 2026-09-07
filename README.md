@@ -2,15 +2,14 @@
 
 # Kris Plesel
 
-**Développeur Web Full-Stack · BTS SIO SLAM**
+**Développeur Web Full Stack · Licence générale informatique**
 
-[![Portfolio](https://img.shields.io/badge/pleselkris.com-000?style=flat&logo=Firefox&logoColor=4ADE80)](https://pleselkris.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/pleselkris/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=FFF)](https://github.com/plKris)
-[![Email](https://img.shields.io/badge/-krisplesel@gmail.com-000?style=flat&logo=Gmail&logoColor=EA4335)](mailto:krisplesel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=Firefox&logoColor=4ADE80)](https://pleselkris.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/pleselkris/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=GitHub&logoColor=FFF)](https://github.com/plKris)
+[![Email](https://img.shields.io/badge/Email-000?style=flat&logo=Gmail&logoColor=EA4335)](mailto:krisplesel@gmail.com)
 
-Je construis des applications web robustes et soignées — backend, frontend, base de données.  
-**Disponible pour une alternance à partir de Septembre 2026.**
+Je conçois et développe des applications web fiables, performantes et centrées sur l’utilisateur, du backend au frontend en passant par les bases de données.
 
 </div>
 
@@ -18,13 +17,13 @@ Je construis des applications web robustes et soignées — backend, frontend, b
 
 ## À propos
 
-Étudiant en **BTS SIO option SLAM**, j'ai livré **3 stages** en entreprise et construit **5 projets full-stack** de A à Z. Mon objectif : devenir développeur web avec un fort accent sur la qualité du code, la sécurité et l'expérience utilisateur.
+Développeur web orienté solution, j’accompagne la conception et la mise en œuvre d’applications web avec un souci constant de qualité, de sécurité et d’expérience utilisateur. À travers plusieurs projets académiques et professionnels, j’ai développé des compétences solides en développement full stack, architecture logicielle et gestion de bases de données.
 
 ---
 
 ## Stack technique
 
-**Frontend**
+### Frontend
 
 [![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=HTML5&logoColor=E34F26)](https://developer.mozilla.org/fr/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
@@ -35,7 +34,7 @@ Je construis des applications web robustes et soignées — backend, frontend, b
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=TailwindCSS&logoColor=06B6D4)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=Bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
 
-**Backend**
+### Backend
 
 [![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![Symfony](https://img.shields.io/badge/-Symfony-000?style=flat&logo=Symfony&logoColor=FFF)](https://symfony.com)
@@ -45,7 +44,7 @@ Je construis des applications web robustes et soignées — backend, frontend, b
 [![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk&logoColor=ED8B00)](https://www.java.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js&logoColor=339933)](https://nodejs.org/)
 
-**Base de données**
+### Base de données
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-000?style=flat&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
@@ -53,7 +52,7 @@ Je construis des applications web robustes et soignées — backend, frontend, b
 [![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/)
 [![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=SQLite&logoColor=003B57)](https://www.sqlite.org/)
 
-**Outils & DevOps**
+### Outils & DevOps
 
 [![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=FFF)](https://github.com/plKris)
@@ -64,11 +63,11 @@ Je construis des applications web robustes et soignées — backend, frontend, b
 [![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 [![WordPress](https://img.shields.io/badge/-WordPress-000?style=flat&logo=WordPress&logoColor=21759B)](https://wordpress.org/)
 
-**Méthodes & Conception**
+### Méthodes & conception
 
 `UML` `MERISE` `MCD / MLD` `POO` `Design Patterns` `Scrum / Agile` `Tests unitaires` `REST API` `MVC`
 
-**Cybersécurité**
+### Cybersécurité
 
 `OWASP Top 10` `RGPD` `JWT` `HTTPS / TLS` `Gestion des droits`
 
@@ -78,26 +77,24 @@ Je construis des applications web robustes et soignées — backend, frontend, b
 
 | # | Projet | Description | Stack | Liens |
 |---|--------|-------------|-------|-------|
-| 01 | **Portfolio personnel** | Site vitrine responsive avec veille technologique dynamique et espace recruteur dédié | HTML · CSS · JS · GitHub Pages | [Live](https://pleselkris.com) · [Code](https://github.com/plKris/plKris.github.io) |
-| 02 | **MediatekFormation** | App de gestion de formations vidéo avec back-office sécurisé, CRUD et organisation par playlists | Symfony 6.4 · PHP · Doctrine · Twig · MySQL | [Code](https://github.com/plKris/projets-scolaires/tree/main/mediatekformation) |
+| 01 | **Portfolio personnel** | Site vitrine responsive avec veille technologique et espace recruteur dédié | HTML · CSS · JavaScript · GitHub Pages | [Live](https://pleselkris.com) · [Code](https://github.com/plKris/plKris.github.io) |
+| 02 | **MediatekFormation** | Application de gestion de formations vidéo avec back-office sécurisé, CRUD et organisation par playlists | Symfony 6.4 · PHP · Doctrine · Twig · MySQL | [Code](https://github.com/plKris/projets-scolaires/tree/main/mediatekformation) |
 | 03 | **ProjetCVVEN** | Application de réservation avec gestion des rôles, authentification et espace administrateur | CodeIgniter 4 · PHP · MySQL · Bootstrap | [Code](https://github.com/plKris/projets-scolaires/tree/main/ProjetCVVEN) |
-| 04 | **CVVEN Ticketing** | Plateforme de ticketing avec dashboard admin, suivi des statuts et contrôle d'accès par rôle | Python · Flask 3 · SQLAlchemy · SQLite | [Code](https://github.com/plKris/projets-scolaires/tree/main/projet-flask) |
-| 05 | **Applications Java** | Apps desktop orientées objet avec architecture DAO et persistance relationnelle via JDBC | Java · Swing · JDBC · UML | Sur demande |
+| 04 | **CVVEN Ticketing** | Plateforme de ticketing avec dashboard administrateur, suivi des statuts et contrôle d’accès par rôle | Python · Flask 3 · SQLAlchemy · SQLite | [Code](https://github.com/plKris/projets-scolaires/tree/main/projet-flask) |
+| 05 | **Applications Java** | Applications desktop orientées objet avec architecture DAO et persistance relationnelle via JDBC | Java · Swing · JDBC · UML | Sur demande |
 
 ---
 
-## Expérience
+## Expérience professionnelle
 
-```
-Jan 2026 — Mar 2026  │  Stagiaire Développeur — ACVER
-                     │  Refonte complète du site web : migration et modernisation sous WordPress
+- **Janvier 2026 — Mars 2026** — Stagiaire développeur web — ACVER  
+  Refonte complète du site web : migration et modernisation sous WordPress.
 
-Fév 2025 — Mar 2025  │  Stagiaire Développeur · Marketing digital — ACVER
-                     │  Mise en place newsletter, analyse des résultats, optimisation SEO
+- **Février 2025 — Mars 2025** — Stagiaire développeur · Marketing digital — ACVER  
+  Mise en place de la newsletter, analyse des résultats et optimisation SEO.
 
-Mai 2024 — Juin 2024 │  Stagiaire Développeur web — ACVER
-                     │  Développement d'un site vitrine pour une association
-```
+- **Mai 2024 — Juin 2024** — Stagiaire développeur web — ACVER  
+  Développement d’un site vitrine pour une association.
 
 ---
 
@@ -112,7 +109,7 @@ Mai 2024 — Juin 2024 │  Stagiaire Développeur web — ACVER
 | AI for Research and Insights | Coursera | ✅ Validée |
 | HackerRank | HackerRank | ✅ Validée |
 | SoloLearn | SoloLearn | ✅ Validée |
-| TOEIC — Anglais Professionnel | ETS Global | ⏳ En cours |
+| TOEIC — Anglais professionnel | ETS Global | ⏳ En cours |
 
 ---
 
@@ -130,9 +127,9 @@ Mai 2024 — Juin 2024 │  Stagiaire Développeur web — ACVER
 
 ## Veille technologique
 
-**Sujet : Vulnérabilités liées à l'IA en tant qu'assistant de développement**
+**Sujet : Vulnérabilités liées à l’IA en tant qu’assistant de développement**
 
-Thèmes couverts : sécurité du code généré · confidentialité des données · impact sur les compétences développeur  
+Thèmes traités : sécurité du code généré · confidentialité des données · impact sur les compétences du développeur  
 Sources : Feedly · Google Alerts · X (Twitter) · Reddit /r/programming
 
 → [Veille mutualisée BTS SIO 2026](https://rayaneww.github.io/VeilleSIO2026/)
@@ -140,8 +137,6 @@ Sources : Feedly · Google Alerts · X (Twitter) · Reddit /r/programming
 ---
 
 <div align="center">
-
-**Disponible pour une alternance · Septembre 2026**
 
 [krisplesel@gmail.com](mailto:krisplesel@gmail.com) · [pleselkris.com](https://pleselkris.com) · [LinkedIn](https://www.linkedin.com/in/pleselkris/)
 
