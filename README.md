@@ -31,35 +31,40 @@ portée à la qualité, à la sécurité et à l’amélioration continue.
 
 ### Développement web
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=HTML5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=angular&logoColor=DD0031)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap&logoColor=7952B3)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28" alt="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28" alt="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="28" alt="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" alt="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="28" alt="Angular">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="Tailwind CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="28" alt="Bootstrap">
 
 ### Backend, API & données
 
-![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=777BB4)
-![Symfony](https://img.shields.io/badge/Symfony-000?style=flat&logo=symfony&logoColor=FFF)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000?style=flat&logo=codeigniter&logoColor=EF4223)
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=FFF)
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=ED8B00)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=nodedotjs&logoColor=339933)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="28" alt="PHP">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" height="28" alt="Symfony">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" height="28" alt="CodeIgniter">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="28" alt="Flask">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="28" alt="Java">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js">
 
 `REST API` `MVC` `Doctrine` `SQLAlchemy` `JDBC`
 
 ### Bases de données
 
-`MySQL` `MariaDB` `PostgreSQL` `MongoDB` `SQLite`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="28" alt="MySQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="28" alt="MariaDB">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="28" alt="MongoDB">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="28" alt="SQLite">
 
 ### Data & IA
 
-`Python pour la data` `NumPy` `Préparation des données` `Visualisation`
-`Machine learning — bases`
+`Python pour la data`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="28" alt="NumPy">
+`Préparation des données` `Visualisation` `Machine learning — bases`
 
 ### Conception, qualité & sécurité
 
@@ -68,9 +73,17 @@ portée à la qualité, à la sécurité et à l’amélioration continue.
 
 ### Systèmes, outils & environnement
 
-`Linux` `Windows Server` `TCP/IP` `HTTP / HTTPS` `Virtualisation`
-`Cisco Packet Tracer` `Git` `GitHub` `Docker` `VS Code` `IntelliJ IDEA`
-`Android Studio` `Figma` `Trello` `WordPress`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="28" alt="Linux">
+`Cisco Packet Tracer`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" alt="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28" alt="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="28" alt="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" alt="VS Code">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="28" alt="IntelliJ IDEA">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="28" alt="Android Studio">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="28" alt="Figma">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="28" alt="WordPress">
+`Windows Server` `TCP/IP` `HTTP / HTTPS` `Virtualisation` `Cisco Packet Tracer` `Trello`
 
 ## Projets sélectionnés
 
