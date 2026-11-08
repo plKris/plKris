@@ -5,7 +5,7 @@
 ### Professionnel informatique · Développement, données & systèmes
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=Firefox&logoColor=4ADE80)](https://pleselkris.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/pleselkris/)
+[LinkedIn](https://www.linkedin.com/in/pleselkris/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=GitHub&logoColor=FFF)](https://github.com/plKris)
 [![Email](https://img.shields.io/badge/Email-000?style=flat&logo=Gmail&logoColor=EA4335)](mailto:krisplesel@gmail.com)
 
@@ -32,23 +32,23 @@ portée à la qualité, à la sécurité et à l’amélioration continue.
 ### Développement web
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=HTML5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=JavaScript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=TypeScript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-000?style=flat&logo=React&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=Angular&logoColor=DD0031)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=TailwindCSS&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=Bootstrap&logoColor=7952B3)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=angular&logoColor=DD0031)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap&logoColor=7952B3)
 
 ### Backend, API & données
 
-![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=PHP&logoColor=777BB4)
-![Symfony](https://img.shields.io/badge/Symfony-000?style=flat&logo=Symfony&logoColor=FFF)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000?style=flat&logo=CodeIgniter&logoColor=EF4223)
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=Python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=Flask&logoColor=FFF)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=777BB4)
+![Symfony](https://img.shields.io/badge/Symfony-000?style=flat&logo=symfony&logoColor=FFF)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000?style=flat&logo=codeigniter&logoColor=EF4223)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=FFF)
 ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=ED8B00)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=Node.js&logoColor=339933)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=nodedotjs&logoColor=339933)
 
 `REST API` `MVC` `Doctrine` `SQLAlchemy` `JDBC`
 
