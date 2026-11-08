@@ -2,142 +2,122 @@
 
 # Kris Plesel
 
-**Développeur Web Full Stack · Licence générale informatique**
+### Professionnel informatique · Développement, données & systèmes
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=Firefox&logoColor=4ADE80)](https://pleselkris.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/pleselkris/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=GitHub&logoColor=FFF)](https://github.com/plKris)
 [![Email](https://img.shields.io/badge/Email-000?style=flat&logo=Gmail&logoColor=EA4335)](mailto:krisplesel@gmail.com)
 
-Je conçois et développe des applications web fiables, performantes et centrées sur l’utilisateur, du backend au frontend en passant par les bases de données.
+Profil informatique polyvalent, titulaire d’un BTS SIO SLAM et actuellement en licence
+informatique, j’interviens sur des projets de développement, de données et de systèmes.
 
 </div>
 
 ---
 
-## À propos
+## Profil
 
-Développeur web orienté solution, j’accompagne la conception et la mise en œuvre d’applications web avec un souci constant de qualité, de sécurité et d’expérience utilisateur. À travers plusieurs projets académiques et professionnels, j’ai développé des compétences solides en développement full stack, architecture logicielle et gestion de bases de données.
+Orienté solution, je transforme des besoins concrets en produits numériques clairs,
+maintenables et centrés sur l’utilisateur. Mon expérience couvre le
+développement frontend et backend, les bases de données, la conception UML/MERISE,
+la data et l’administration d’applications.
 
----
+Polyvalent et curieux, je contribue à des projets en développement logiciel, développement
+web, data, systèmes et plus largement dans l’informatique, avec une attention particulière
+portée à la qualité, à la sécurité et à l’amélioration continue.
 
-## Stack technique
+## Compétences
 
-### Frontend
+### Développement web
 
-[![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=HTML5&logoColor=E34F26)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=61DAFB)](https://react.dev/)
-[![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=Angular&logoColor=DD0031)](https://angular.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=TailwindCSS&logoColor=06B6D4)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=Bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=JavaScript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=TypeScript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=React&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=Angular&logoColor=DD0031)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=TailwindCSS&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=Bootstrap&logoColor=7952B3)
 
-### Backend
+### Backend, API & données
 
-[![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=PHP&logoColor=777BB4)](https://www.php.net)
-[![Symfony](https://img.shields.io/badge/-Symfony-000?style=flat&logo=Symfony&logoColor=FFF)](https://symfony.com)
-[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?style=flat&logo=CodeIgniter&logoColor=EF4223)](https://codeigniter.com/)
-[![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python&logoColor=3776AB)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=Flask&logoColor=FFF)](https://flask.palletsprojects.com/)
-[![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk&logoColor=ED8B00)](https://www.java.com/)
-[![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js&logoColor=339933)](https://nodejs.org/)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=PHP&logoColor=777BB4)
+![Symfony](https://img.shields.io/badge/Symfony-000?style=flat&logo=Symfony&logoColor=FFF)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000?style=flat&logo=CodeIgniter&logoColor=EF4223)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=Python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=Flask&logoColor=FFF)
+![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=ED8B00)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=Node.js&logoColor=339933)
 
-### Base de données
+`REST API` `MVC` `Doctrine` `SQLAlchemy` `JDBC`
 
-[![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-000?style=flat&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL&logoColor=336791)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB&logoColor=47A248)](https://www.mongodb.com/)
-[![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=SQLite&logoColor=003B57)](https://www.sqlite.org/)
+### Bases de données
 
-### Outils & DevOps
+`MySQL` `MariaDB` `PostgreSQL` `MongoDB` `SQLite`
 
-[![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=FFF)](https://github.com/plKris)
-[![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker&logoColor=2496ED)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=VisualStudioCode&logoColor=007ACC)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000?style=flat&logo=IntelliJIDEA&logoColor=FFF)](https://www.jetbrains.com/idea/)
-[![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
-[![WordPress](https://img.shields.io/badge/-WordPress-000?style=flat&logo=WordPress&logoColor=21759B)](https://wordpress.org/)
+### Data & IA
 
-### Méthodes & conception
+`Python pour la data` `NumPy` `Préparation des données` `Visualisation`
+`Machine learning — bases`
 
-`UML` `MERISE` `MCD / MLD` `POO` `Design Patterns` `Scrum / Agile` `Tests unitaires` `REST API` `MVC`
+### Conception, qualité & sécurité
 
-### Cybersécurité
+`UML` `MERISE` `MCD / MLD` `Cahier des charges` `POO` `Design Patterns` `Scrum / Agile`
+`Tests unitaires` `OWASP Top 10` `RGPD` `JWT` `HTTPS / TLS` `Gestion des droits`
 
-`OWASP Top 10` `RGPD` `JWT` `HTTPS / TLS` `Gestion des droits`
+### Systèmes, outils & environnement
 
----
+`Linux` `Windows Server` `TCP/IP` `HTTP / HTTPS` `Virtualisation`
+`Cisco Packet Tracer` `Git` `GitHub` `Docker` `VS Code` `IntelliJ IDEA`
+`Android Studio` `Figma` `Trello` `WordPress`
 
-## Projets
+## Projets sélectionnés
 
-| # | Projet | Description | Stack | Liens |
-|---|--------|-------------|-------|-------|
-| 01 | **Portfolio personnel** | Site vitrine responsive avec veille technologique et espace recruteur dédié | HTML · CSS · JavaScript · GitHub Pages | [Live](https://pleselkris.com) · [Code](https://github.com/plKris/plKris.github.io) |
-| 02 | **MediatekFormation** | Application de gestion de formations vidéo avec back-office sécurisé, CRUD et organisation par playlists | Symfony 6.4 · PHP · Doctrine · Twig · MySQL | [Code](https://github.com/plKris/projets-scolaires/tree/main/mediatekformation) |
-| 03 | **ProjetCVVEN** | Application de réservation avec gestion des rôles, authentification et espace administrateur | CodeIgniter 4 · PHP · MySQL · Bootstrap | [Code](https://github.com/plKris/projets-scolaires/tree/main/ProjetCVVEN) |
-| 04 | **CVVEN Ticketing** | Plateforme de ticketing avec dashboard administrateur, suivi des statuts et contrôle d’accès par rôle | Python · Flask 3 · SQLAlchemy · SQLite | [Code](https://github.com/plKris/projets-scolaires/tree/main/projet-flask) |
-| 05 | **Applications Java** | Applications desktop orientées objet avec architecture DAO et persistance relationnelle via JDBC | Java · Swing · JDBC · UML | Sur demande |
+| Projet | Ce que le projet démontre | Technologies | Liens |
+|---|---|---|---|
+| **Portfolio personnel** | Site vitrine responsive développé from scratch, veille technologique et espace recruteur | HTML · CSS · JavaScript · GitHub Pages | [Voir le site](https://pleselkris.com) · [Code](https://github.com/plKris/plKris.github.io) |
+| **MediatekFormation** | Plateforme d’auto-formation avec back-office sécurisé, CRUD et organisation par playlists | Symfony 6.4 · PHP · Doctrine · Twig · MySQL | [Code](https://github.com/plKris/projets-scolaires/tree/main/mediatekformation) |
+| **ProjetCVVEN** | Application de réservation avec authentification, rôles et espace administrateur | CodeIgniter 4 · PHP · MySQL · Bootstrap | [Code](https://github.com/plKris/projets-scolaires/tree/main/ProjetCVVEN) |
+| **CVVEN Ticketing** | Gestion d’incidents, tableau de bord et contrôle d’accès par rôle | Python · Flask 3 · SQLAlchemy · SQLite | [Code](https://github.com/plKris/projets-scolaires/tree/main/projet-flask) |
+| **La fuite du roi** | Jeu d’aventure réalisé en équipe lors d’un hackathon, avec choix et gestion de ressources | Godot · GDScript · Arduino · FMOD | [Code](https://github.com/plKris/jeu-godot) · [Présentation](https://pleselkris.com/documents/projet-godot/presentation-jeu-godot.pdf) |
 
----
+## Expérience
 
-## Expérience professionnelle
-
-- **Janvier 2026 — Mars 2026** — Stagiaire développeur web — ACVER  
-  Refonte complète du site web : migration et modernisation sous WordPress.
-
-- **Février 2025 — Mars 2025** — Stagiaire développeur · Marketing digital — ACVER  
-  Mise en place de la newsletter, analyse des résultats et optimisation SEO.
-
-- **Mai 2024 — Juin 2024** — Stagiaire développeur web — ACVER  
+- **Janvier 2026 — Mars 2026** · Stagiaire développeur web — **ACVER**<br>
+  Refonte complète et modernisation du site sous WordPress.
+- **Février 2025 — Mars 2025** · Stagiaire développeur · marketing digital — **ACVER**<br>
+  Mise en place d’une newsletter, analyse des résultats et optimisation SEO.
+- **Mai 2024 — Juin 2024** · Stagiaire développeur web — **ACVER**<br>
   Développement d’un site vitrine pour une association.
-
----
 
 ## Certifications
 
 | Certification | Organisme | Statut |
-|---------------|-----------|--------|
-| PIX | Ministère de l'Éducation | ✅ Validée |
-| SecNumAcadémie | ANSSI | ✅ Validée |
-| AI Fundamentals | Coursera | ✅ Validée |
-| AI for Brainstorming and Planning | Coursera | ✅ Validée |
-| AI for Research and Insights | Coursera | ✅ Validée |
-| HackerRank | HackerRank | ✅ Validée |
-| SoloLearn | SoloLearn | ✅ Validée |
-| TOEIC — Anglais professionnel | ETS Global | ⏳ En cours |
-
----
-
-## GitHub
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/plKris?style=for-the-badge&logo=github&label=Followers&color=0d1117&logoColor=ffffff)](https://github.com/plKris)
-[![Stars](https://img.shields.io/github/stars/plKris?style=for-the-badge&logo=github&label=Stars&color=0d1117&logoColor=ffffff)](https://github.com/plKris)
-[![Profile views](https://komarev.com/ghpvc/?username=plKris&style=for-the-badge&color=4ADE80)](https://github.com/plKris)
-
-</div>
-
----
+|---|---|---|
+| PIX | Ministère de l’Éducation | Validée |
+| SecNumAcadémie | ANSSI | Validée |
+| AI Fundamentals | Coursera | Validée |
+| AI for Brainstorming and Planning | Coursera | Validée |
+| AI for Research and Insights | Coursera | Validée |
+| HackerRank | HackerRank | Validée |
+| SoloLearn | SoloLearn | Validée |
+| TOEIC — Anglais professionnel | ETS Global | En cours |
 
 ## Veille technologique
 
-**Sujet : Vulnérabilités liées à l’IA en tant qu’assistant de développement**
+### IA comme assistant de développement
 
-Thèmes traités : sécurité du code généré · confidentialité des données · impact sur les compétences du développeur  
-Sources : Feedly · Google Alerts · X (Twitter) · Reddit /r/programming
+Je m’intéresse aux risques liés à l’utilisation de l’IA dans le développement logiciel :
+sécurité du code généré, confidentialité des données, propriété intellectuelle et impact
+sur les compétences du développeur.
 
-→ [Veille mutualisée BTS SIO 2026](https://rayaneww.github.io/VeilleSIO2026/)
+→ [Consulter la veille mutualisée BTS SIO 2026](https://rayaneww.github.io/VeilleSIO2026/)
 
----
+## Contact
 
-<div align="center">
+Échanges autour de projets numériques, de développement et de données.
 
-[krisplesel@gmail.com](mailto:krisplesel@gmail.com) · [pleselkris.com](https://pleselkris.com) · [LinkedIn](https://www.linkedin.com/in/pleselkris/)
-
-</div>
+[Portfolio](https://pleselkris.com) ·
+[LinkedIn](https://www.linkedin.com/in/pleselkris/) ·
+[krisplesel@gmail.com](mailto:krisplesel@gmail.com)
