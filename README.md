@@ -4,7 +4,7 @@
 
 ### Professionnel informatique · Développement, données & systèmes
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=4ADE80)](https://pleselkris.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=webdotdev&logoColor=4ADE80)](https://pleselkris.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pleselkris/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/plKris)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=EA4335)](mailto:krisplesel@gmail.com)
